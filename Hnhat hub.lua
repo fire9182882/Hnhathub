@@ -99,7 +99,7 @@ function AllowRunServiceBind.OnInvoke(args)
     CoreGui:SetCore("SendNotification", {
         Title = "Chest Moji",
         Text = "by huunhat",
-        Icon = "rbxthumb://type=Asset&id=6523491488&w=150&h=150",
+        Icon = "rbxthumb://type=Asset&id=15828349903&w=150&h=150",
         Duration = math.huge,
         Callback = AllowRunServiceBind,
         Button1 = "Bật",
@@ -124,7 +124,7 @@ local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
     Title = "Chest Moji",
     Text = "by huunhat",
-    Icon = "rbxthumb://type=Asset&id=6523491488&w=150&h=150",
+    Icon = "rbxthumb://type=Asset&id=15828349903&w=150&h=150",
     Duration = math.huge,
     Callback = AllowRunServiceBind,
     Button1 = "Bật",
