@@ -118,4 +118,4 @@ end)
 
 repeat wait() until game:IsLoaded()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/clgtmm/AutoBounty/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fire9182882/Hnhathub/main/auto"))()
